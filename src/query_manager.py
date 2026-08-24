@@ -5,7 +5,7 @@
 
 import psycopg2
 from typing import List, Tuple, Optional
-from db_manager import DatabaseManager
+from src.db_manager import DatabaseManager
 
 
 class DBManager:
